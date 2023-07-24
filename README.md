@@ -15,7 +15,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=karmesin924)](https://solved.ac/karmesin924/)
 </div>
 <p align="center">
-    (My cute)<Strong>💡 Tech Stack💡</Strong><br><br>
+    (My cute)<Strong>💡Tech Stack💡</Strong><br><br>
     <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=cplusplus&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-    <Strong>🎈 ️What I want to learn🎈</Strong><br><br>
+    <Strong>🚩What I want to learn🚩</Strong><br><br>
     <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white"/>
@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-    <Strong>🎈 에서 💡 으로 바뀌는 그날까지 달립니다!!🏃</Strong>
+    <Strong>🚩에서 💡으로 바뀌는 그날까지 달립니다!!🏃</Strong>
 </p>
 <br><br>
 
