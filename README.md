@@ -16,7 +16,7 @@
 </div>
 <hr>
 <p align="center">
-    (My cute)<Strong>💡Tech Stack💡</Strong><br><br>
+    (My cute)<br><Strong>💡Tech Stack💡</Strong><br><br>
     <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=cplusplus&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>
@@ -40,15 +40,15 @@
     <Strong>🚩에서 💡으로 바뀌는 그날까지 달립니다!!🏃</Strong>
 </p>
 <br><br>
-
+<hr>
 <div align="center">
-<Strong>🏳️‍🌈GitHub Stats🏳️‍🌈</Strong><br>
+<h5>🏳️‍🌈GitHub Stats🏳️‍🌈</h5>
     
 ![Karmesin924's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karmesin924&hide=issues&show_icons=true&theme=gruvbox)
 </div>
 
 <div align="center">
-<Strong>🏳️‍🌈Top Language🏳️‍🌈</Strong><br>
+<h5>🏳️‍🌈Top Language🏳️‍🌈</h5><br>
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karmesin924&layout=compact&theme=gruvbox)
 </div>
