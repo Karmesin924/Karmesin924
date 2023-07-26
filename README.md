@@ -25,17 +25,17 @@
 
 <p align="center">
     <Strong>🚩What I want to learn🚩</Strong><br><br>
-    <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=TypeScript&logoColor=white"/><br>
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=MongoDB&logoColor=white"/><br>
-    <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=Node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"/><br>
-    <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/><br>
-    <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"/>
-    <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=black"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black"/>
 </p>
 
 <p align="center">
