@@ -14,6 +14,7 @@
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=karmesin924)](https://solved.ac/karmesin924/)
 </div>
+<hr>
 <p align="center">
     (My cute)<Strong>💡Tech Stack💡</Strong><br><br>
     <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=cplusplus&logoColor=white"/>
@@ -41,13 +42,13 @@
 <br><br>
 
 <div align="center">
-<Strong>🏳️‍🌈GitHub Stats🏳️‍🌈</Strong>
+<Strong>🏳️‍🌈GitHub Stats🏳️‍🌈</Strong><br>
     
 ![Karmesin924's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karmesin924&hide=issues&show_icons=true&theme=gruvbox)
 </div>
 
 <div align="center">
-<Strong>🏳️‍🌈Top Language🏳️‍🌈</Strong>
+<Strong>🏳️‍🌈Top Language🏳️‍🌈</Strong><br>
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karmesin924&layout=compact&theme=gruvbox)
 </div>
