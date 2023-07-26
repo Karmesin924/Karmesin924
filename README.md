@@ -41,7 +41,13 @@
 <br><br>
 
 <div align="center">
+<Strong>🏳️‍🌈GitHub Stats🏳️‍🌈</Strong>
     
-![Karmesin924's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karmesin924&hide_rank=true&hide=issues&show_icons=true&theme=gruvbox)
+![Karmesin924's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karmesin924&hide=issues&show_icons=true&theme=gruvbox)
+</div>
+
+<div align="center">
+<Strong>🏳️‍🌈Top Language🏳️‍🌈</Strong>
+    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karmesin924&layout=compact&theme=gruvbox)
 </div>
