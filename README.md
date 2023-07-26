@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
     <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=Node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/express-000000?style=flat&logo=Express.js&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"/><br>
     <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
     <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/><br>
     <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"/>
