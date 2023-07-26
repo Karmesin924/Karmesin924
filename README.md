@@ -48,7 +48,7 @@
 </div>
 
 <div align="center">
-<h5>🏳️‍🌈Top Language🏳️‍🌈</h5><br>
+<h5>🏳️‍🌈Top Language🏳️‍🌈</h5>
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karmesin924&layout=compact&theme=gruvbox)
 </div>
