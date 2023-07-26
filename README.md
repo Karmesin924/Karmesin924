@@ -39,7 +39,7 @@
 <p align="center">
     <Strong>🚩에서 💡으로 바뀌는 그날까지 달립니다!!🏃</Strong>
 </p>
-<br><br>
+<br>
 <hr>
 <div align="center">
 <h5>🏳️‍🌈GitHub Stats🏳️‍🌈</h5>
