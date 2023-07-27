@@ -44,13 +44,13 @@
 <br>
 <hr>
 <div align="center">
-<h5>🏳️‍🌈GitHub Stats🏳️‍🌈</h5>
+<h5>👑 GitHub Stats 👑</h5>
     
 ![Karmesin924's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karmesin924&hide=issues&show_icons=true&theme=gruvbox)
 </div>
 
 <div align="center">
-<h5>🏳️‍🌈Top Language🏳️‍🌈</h5>
+<h5>🎨 Top Language 🎨</h5>
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karmesin924&layout=compact&theme=gruvbox)
 </div>
