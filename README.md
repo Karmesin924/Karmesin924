@@ -16,6 +16,7 @@
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=karmesin924)](https://solved.ac/karmesin924/)
 </div>
+<br>
 <hr>
 
 <p align="center">
@@ -23,7 +24,7 @@
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
-    <br><br>
+    <br>
 </p>
 <br>
 <p align="center">
@@ -46,6 +47,7 @@
     <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black"/>
 </p>
 
+<br>
 <p align="center">
     <Strong>🚩에서 💡으로 바뀌는 그날까지 달립니다!!🏃</Strong>
 </p>
