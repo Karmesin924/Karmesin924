@@ -5,16 +5,19 @@
     풀스택 개발자를 목표로 공부하고 있습니다! 동기부여 받으면서 재밌게 공부하고 싶습니다😁 <br>
     백준 온라인저지를 통해서 알고리즘 문제도 매일 풀고 있고, 투두메이트로 공부일정 관리도 하고있습니다! <br>
     깃허브 아이디로 팔로우 해주시면 바로 맞팔갑니다😎
-</p>
+</p> 
+
 <p align="center" display="inline-block">
   <a href="https://karmesin924.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"/></a>
   <a href="https://www.instagram.com/jj_hong_22/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
+
 <div align="center">
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=karmesin924)](https://solved.ac/karmesin924/)
 </div>
 <hr>
+
 <p align="center">
     (My cute)<br><Strong>💡Tech Stack💡</Strong><br><br>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
@@ -22,6 +25,7 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
     <br><br>
 </p>
+<br>
 <p align="center">
     <br><Strong>🧑🏻‍💻Current Studying🧑🏻‍💻</Strong><br><br>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
@@ -29,6 +33,7 @@
     <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
     <br><br>
 </p>
+<br>
 <p align="center">
     <Strong>🚩What I want to learn🚩</Strong><br><br>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
