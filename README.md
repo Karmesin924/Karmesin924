@@ -7,11 +7,6 @@
     깃허브 아이디로 팔로우 해주시면 바로 맞팔갑니다😎
 </p> 
 
-<p align="center" display="inline-block">
-  <a href="https://karmesin924.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"/></a>
-  <a href="https://www.instagram.com/jj_hong_22/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-</p>
-
 <div align="center">
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=karmesin924)](https://solved.ac/karmesin924/)
