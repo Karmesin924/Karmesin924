@@ -9,7 +9,7 @@
 
 <div align="center">
     
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=overfitting)](https://solved.ac/overfitting/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=overfitting)](https://solved.ac/profile/overfitting/)
 </div>
 <br>
 <hr>
